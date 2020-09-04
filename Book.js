@@ -39,6 +39,7 @@ and romance from a best-selling author; set in turn-of-the-century rural Texas`,
 
 const bookFour= new Book ('leota\'s garden', `Francine Rivers', 'fiction with a charming heroine and healthy doses of humor 
 and romance from a best-selling author..`, 502, 502, true)
+
 export const books = [bookOne, bookTwo, bookThree, bookFour];
 
 
